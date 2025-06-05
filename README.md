@@ -13,14 +13,12 @@ I'm a former carpenter turned aspiring software developer with a passion for bui
 - Web development
 
 ## 📫 How to Reach Me
-- 📧 [Your email]
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 Robertchickadaunce@gmail.com
+- 💼 [LinkedIn]
 
 ## 🗂️ Featured Projects
 - [CraftGuide Website](https://github.com/Robert-Chickadaunce/CraftGuide)
-- [Python GUI App](link here)
-- [Hotel Management System (C++)](link here)
 
----
+--
 
 “Measure twice, code once.” 🪚💻
