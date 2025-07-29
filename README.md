@@ -14,7 +14,7 @@ I'm a former carpenter turned aspiring software developer with a passion for bui
 
 ## 📫 How to Reach Me
 - 📧 Robertchickadaunce@gmail.com
-- 💼 [LinkedIn]
+- 💼 https://www.linkedin.com/in/robert-chickadaunce-0931521a0
 
 ## 🗂️ Featured Projects
 - [CraftGuide Website](https://github.com/Robert-Chickadaunce/CraftGuide)
